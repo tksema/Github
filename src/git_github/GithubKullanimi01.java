@@ -14,7 +14,7 @@ public class GithubKullanimi01 {
    (commit yani versiyon yani sürüm oluşturmuş olurum)
    5-) git push --> Uzak repo'ya(yani remote - GitHub)
    göndermek için kullandıgımız kod
-   yalnız git push komutunu diirekt kullanmak istersek 1 kez
+   yalnız git push komutunu direkt kullanmak istersek 1 kez
          git remote add origin adress
          git push -u origin master
    NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push

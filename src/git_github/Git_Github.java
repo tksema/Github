@@ -1,6 +1,6 @@
 package git_github;
 
-public class ABulutluoz {
+public class Git_Github {
     /*
       - Github çok geniştir hepsini bilmemize imkan yoktur işimize yarayan kısmını öğrenmemiz yeterlidir
       - Bu videoa 4 temel senaryo gorecegiz ve burada kullanacagimiz git kod sayi -si 10 u gecmez hemde
