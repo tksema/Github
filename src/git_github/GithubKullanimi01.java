@@ -2,7 +2,8 @@ package git_github;
 
 public class GithubKullanimi01 {
 
-}/*
+}
+   /*
     1-) git init --> Local repo olusturmak icin yani  .git ile klasörümüzün
    içindeki dosyaları
    ilişkilendirmek için kullanılır

@@ -43,7 +43,7 @@ public class GithubKullanimi02 {
      */
 
     /*
-       *****VERSIYONLAR VE BRACHLER ARASINDA GECİS YAPMAK*****
+       *****VERSIYONLAR VE BRANCHLER ARASINDA GECİS YAPMAK*****
     git checkout [commit_Log_Hashcode] [dosya]	    ===>  versiyonlar arasında geçişi  sağlar.
                                                           Dosya,hash ile belirtilen versiyona döner.
     git checkout [commit_Log_Hashcode] .	        ===>  Hash değeri verilen versiyona döner.
